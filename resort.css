@@ -45,7 +45,7 @@ nav a .current {
   color: #f7c08a;
 }
 .conta{
- background-image:url(images/resort-1.jpg);
+ background-image:url(resort-1.jpg);
    
     background-blend-mode: overlay;
    background-size: cover;     
